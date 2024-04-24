@@ -45,6 +45,9 @@
         "isWholeLine": false,
     },
     "files.associations": {
+        "*.page-template": "vue",
+        "*.layout-template": "vue",
+        "*.vue": "vue",
         "test.h": "c",
         "vulkan.h": "c",
         "vulkan_core.h": "c",
@@ -53,6 +56,11 @@
         "typeinfo": "c",
         "windowsx.h": "c",
         "vulkan_platform.h": "c",
-        "renderer_frontend.h": "c"
+        "renderer_frontend.h": "c",
+        "logger.h": "c",
+        "platform.h": "c",
+        "iosfwd": "c",
+        "xlocbuf": "c",
+        "application.h": "c"
     }
 }
